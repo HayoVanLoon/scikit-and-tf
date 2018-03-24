@@ -29,7 +29,6 @@ pip install -r requirements.txt
 
 All done!
 
-
 ## Note on temporary files
 While operating, Tensorflow stores (temporary) model data in model directories.
 For these models, a tmp folder (with subfolders) will be created in the repo.
