@@ -10,7 +10,10 @@ Note that this is not an exercise in deciding which framework is better. The
 aim is to show the similarities in the model creation process.
 
 ## Installation
-Clone the repo.
+Clone the repo:
+```
+git clone https://bitbucket.org/incentro-ondemand/scikit-and-tf
+```
 
 Create a virtual environment in the repo:
 ```
