@@ -27,7 +27,13 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-All done!
+All done! The scripts should now run:
+```
+python linreg-sk.py
+python linreg-tf.py
+python classify-sk.py
+python classify-tf.py
+```
 
 ## Note on temporary files
 While operating, Tensorflow stores (temporary) model data in model directories.
